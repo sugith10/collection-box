@@ -1,7 +1,7 @@
 name: collection_box
-description: "A new Flutter package project."
+description: A simple widget where user input is turned into a list of text widgets.
 version: 0.0.1
-homepage:
+homepage: https://github.com/sugith10/collection-box
 
 environment:
   sdk: '>=3.4.3 <4.0.0'
